@@ -1,0 +1,378 @@
+[
+    {
+        "iata": "CGN",
+        "name": "Koln Bonn",
+        "city": "Cologne",
+        "country": "Germany",
+        "lat_dec": 50.8658333333,
+        "lon_dec": 7.1425
+    },
+    {
+        "iata": "LHR",
+        "name": "Heathrow",
+        "city": "London",
+        "country": "Engalnd",
+        "lat_dec": 51.4775,
+        "lon_dec": -0.4613888889
+    },
+    {
+        "iata": "STN",
+        "name": "Stansted",
+        "city": "London",
+        "country": "England",
+        "lat_dec": 51.885,
+        "lon_dec": 0.235
+    },
+    {
+        "iata": "AMS",
+        "name": "Schiphol",
+        "city": "Amsterdam",
+        "country": "Netherlands",
+        "lat_dec": 52.3086111111,
+        "lon_dec": 4.7638888889
+    },
+    {
+        "iata": "DUB",
+        "name": "Dublin",
+        "city": "Dublin",
+        "country": "Ireland",
+        "lat_dec": 53.4211111111,
+        "lon_dec": -6.27
+    },
+    {
+        "iata": "ATL",
+        "name": "The William B Hartsfield Atlanta International",
+        "city": "Atlanta",
+        "country": "Usa",
+        "lat_dec": 33.6402777778,
+        "lon_dec": -84.4269444444
+    },
+    {
+        "iata": "BOS",
+        "name": "General Edward Lawrence Logan International",
+        "city": "Boston",
+        "country": "Usa",
+        "lat_dec": 42.3641666667,
+        "lon_dec": -71.005
+    },
+    {
+        "iata": "CHO",
+        "name": "Charlottesville-Albemarle Airport",
+        "city": "Charlotesville",
+        "country": "Usa",
+        "lat_dec": 38.1386111111,
+        "lon_dec": -78.4527777778
+    },
+    {
+        "iata": "CLT",
+        "name": "Charlotte Douglas International",
+        "city": "Charlotte",
+        "country": "Usa",
+        "lat_dec": 35.2138888889,
+        "lon_dec": -80.9430555556
+    },
+    {
+        "iata": "DCA",
+        "name": "Ronald Reagan Washington National",
+        "city": "Washington",
+        "country": "Usa",
+        "lat_dec": 38.8519444444,
+        "lon_dec": -77.0375
+    },
+    {
+        "iata": "DEN",
+        "name": "Denver International",
+        "city": "Denver",
+        "country": "Usa",
+        "lat_dec": 39.8583333333,
+        "lon_dec": -104.6669444444
+    },
+    {
+        "iata": "DFW",
+        "name": "Dallas Fort Worth International",
+        "city": "Dallas-Fort Worth",
+        "country": "Usa",
+        "lat_dec": 32.8963888889,
+        "lon_dec": -97.0375
+    },
+    {
+        "iata": "DRO",
+        "name": "Durango La Plata Co",
+        "city": "Durango",
+        "country": "Usa",
+        "lat_dec": 37.1513888889,
+        "lon_dec": -107.7536111111
+    },
+    {
+        "iata": "DTW",
+        "name": "Detroit Metro Wayne Co",
+        "city": "Detroit",
+        "country": "Usa",
+        "lat_dec": 42.2122222222,
+        "lon_dec": -83.3533333333
+    },
+    {
+        "iata": "EWR",
+        "name": "Newark Liberty International",
+        "city": "Newark",
+        "country": "Usa",
+        "lat_dec": 40.6922222222,
+        "lon_dec": -74.1686111111
+    },
+    {
+        "iata": "GSP",
+        "name": "Greenville-Spartanburg International Airport",
+        "city": "Greenville",
+        "country": "Usa",
+        "lat_dec": 34.8955555556,
+        "lon_dec": -82.2188888889
+    },
+    {
+        "iata": "HOU",
+        "name": "William P Hobby",
+        "city": "Houston",
+        "country": "Usa",
+        "lat_dec": 29.6452777778,
+        "lon_dec": -95.2788888889
+    },
+    {
+        "iata": "IAD",
+        "name": "Washington Dulles International",
+        "city": "Washington",
+        "country": "Usa",
+        "lat_dec": 38.9444444444,
+        "lon_dec": -77.4555555556
+    },
+    {
+        "iata": "IAH",
+        "name": "George Bush Intcntl Houston",
+        "city": "Houston",
+        "country": "Usa",
+        "lat_dec": 29.9802777778,
+        "lon_dec": -95.3397222222
+    },
+    {
+        "iata": "IND",
+        "name": "Indianapolis International",
+        "city": "Indianapolis",
+        "country": "Usa",
+        "lat_dec": 39.7172222222,
+        "lon_dec": -86.2941666667
+    },
+    {
+        "iata": "JFK",
+        "name": "John F Kennedy International",
+        "city": "New York",
+        "country": "Usa",
+        "lat_dec": 40.6397222222,
+        "lon_dec": -73.7788888889
+    },
+    {
+        "iata": "LAS",
+        "name": "Mc Carran International",
+        "city": "Las Vegas",
+        "country": "Usa",
+        "lat_dec": 36.0802777778,
+        "lon_dec": -115.1522222222
+    },
+    {
+        "iata": "LAX",
+        "name": "Los Angeles International",
+        "city": "Los Angeles",
+        "country": "Usa",
+        "lat_dec": 33.9425,
+        "lon_dec": -118.4080555556
+    },
+    {
+        "iata": "LGA",
+        "name": "La Guardia",
+        "city": "New York",
+        "country": "Usa",
+        "lat_dec": 40.7772222222,
+        "lon_dec": -73.8725
+    },
+    {
+        "iata": "MCO",
+        "name": "Orlando International",
+        "city": "Orlando",
+        "country": "Usa",
+        "lat_dec": 28.4288888889,
+        "lon_dec": -81.3158333333
+    },
+    {
+        "iata": "ORD",
+        "name": "Chicago Ohare International",
+        "city": "Chicago",
+        "country": "Usa",
+        "lat_dec": 41.9794444444,
+        "lon_dec": -87.9044444444
+    },
+    {
+        "iata": "ORF",
+        "name": "Norfolk International",
+        "city": "Norfolk",
+        "country": "Usa",
+        "lat_dec": 36.8944444444,
+        "lon_dec": -76.2011111111
+    },
+    {
+        "iata": "PHF",
+        "name": "Newport News Williamsburg International",
+        "city": "Newport News",
+        "country": "Usa",
+        "lat_dec": 37.1316666667,
+        "lon_dec": -76.4927777778
+    },
+    {
+        "iata": "PHL",
+        "name": "Philadelphia International",
+        "city": "Philadelphia",
+        "country": "Usa",
+        "lat_dec": 39.8719444444,
+        "lon_dec": -75.2411111111
+    },
+    {
+        "iata": "PHX",
+        "name": "Phoenix Sky Harbor International",
+        "city": "Phoenix",
+        "country": "Usa",
+        "lat_dec": 33.4341666667,
+        "lon_dec": -112.0080555556
+    },
+    {
+        "iata": "RIC",
+        "name": "Richmond International",
+        "city": "Richmond",
+        "country": "Usa",
+        "lat_dec": 37.505,
+        "lon_dec": -77.3194444444
+    },
+    {
+        "iata": "SEA",
+        "name": "Seattle Tacoma International",
+        "city": "Seattle",
+        "country": "Usa",
+        "lat_dec": 47.4488888889,
+        "lon_dec": -122.3091666667
+    },
+    {
+        "iata": "SFO",
+        "name": "San Francisco International",
+        "city": "San Francisco",
+        "country": "Usa",
+        "lat_dec": 37.6188888889,
+        "lon_dec": -122.3747222222
+    },
+    {
+        "iata": "SLC",
+        "name": "Salt Lake City International",
+        "city": "Salt Lake City",
+        "country": "Usa",
+        "lat_dec": 40.7883333333,
+        "lon_dec": -111.9775
+    },
+    {
+        "iata": "STL",
+        "name": "Lambert St Louis International",
+        "city": "St. Louis",
+        "country": "Usa",
+        "lat_dec": 38.7475,
+        "lon_dec": -90.3597222222
+    },
+    {
+        "iata": "TUL",
+        "name": "Tulsa International",
+        "city": "Tulsa",
+        "country": "Usa",
+        "lat_dec": 36.1983333333,
+        "lon_dec": -95.8880555556
+    },
+    {
+        "iata": "TUS",
+        "name": "Tucson International",
+        "city": "Tucson",
+        "country": "Usa",
+        "lat_dec": 32.1161111111,
+        "lon_dec": -110.9413888889
+    },
+    {
+        "iata": "MEX",
+        "name": "Licenciado Benito Juarez International",
+        "city": "Mexico City",
+        "country": "Mexico",
+        "lat_dec": 19.4361111111,
+        "lon_dec": -99.0719444444
+    },
+    {
+        "iata": "ANC",
+        "name": "Ted Stevens Anchorage International",
+        "city": "Anchorage",
+        "country": "Usa",
+        "lat_dec": 61.1741666667,
+        "lon_dec": -149.9961111111
+    },
+    {
+        "iata": "NRT",
+        "name": "New Tokyo International",
+        "city": "Tokyo",
+        "country": "Japan",
+        "lat_dec": 35.7647222222,
+        "lon_dec": 140.3863888889
+    },
+    {
+        "iata": "HND",
+        "name": "Tokyo International",
+        "city": "Tokyo",
+        "country": "Japan",
+        "lat_dec": 35.5522222222,
+        "lon_dec": 139.7794444444
+    },
+    {
+        "iata": "ICN",
+        "name": "Incheon",
+        "city": "Seoul",
+        "country": "Korea",
+        "lat_dec": 37.4633333333,
+        "lon_dec": 126.44
+    },
+    {
+        "iata": "GMP",
+        "name": "Gimpo",
+        "city": "Seoul",
+        "country": "Korea",
+        "lat_dec": 37.5580555556,
+        "lon_dec": 126.7905555556
+    },
+    {
+        "iata": "HAN",
+        "name": "Noibai International",
+        "city": "Hanoi",
+        "country": "Viet Nam",
+        "lat_dec": 21.2216666667,
+        "lon_dec": 105.8055555556
+    },
+    {
+        "iata": "PEK",
+        "name": "Capital",
+        "city": "Beijing",
+        "country": "China",
+        "lat_dec": 40.08,
+        "lon_dec": 116.5844444444
+    },
+    {
+        "iata": "CAN",
+        "name": "Baiyun",
+        "city": "Guangzhou",
+        "country": "China",
+        "lat_dec": 23.1841666667,
+        "lon_dec": 113.2658333333
+    },
+    {
+        "iata": "SHA",
+        "name": "Hongqiao International",
+        "city": "Shanghai",
+        "country": "China",
+        "lat_dec": 31.1977777778,
+        "lon_dec": 121.3361111111
+    }
+]
